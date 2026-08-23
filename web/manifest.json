@@ -1,6 +1,6 @@
 {
-    "name": "randomProgram",
-    "short_name": "random",
+    "name": "random_program",
+    "short_name": "random_program",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
