@@ -1,0 +1,4 @@
+#Mon Feb 13 23:05:25 ICT 2023
+base.0=C\:\\Users\\porra\\OneDrive\\Desktop\\Programming\\randomProgram\\random_program\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

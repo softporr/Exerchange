@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
             textTheme: GoogleFonts.chakraPetchTextTheme()
         ),
         home: const RandomGenerate(),
-        darkTheme: ThemeData.dark());
+        darkTheme: ThemeData.dark(););
   }
 }
 
