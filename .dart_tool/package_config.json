@@ -74,6 +74,12 @@
       "languageVersion": "3.11"
     },
     {
+      "name": "flutter_glass_morphism",
+      "rootUri": "file:///C:/Users/porra/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_glass_morphism-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///C:/Users/porra/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-6.0.0",
       "packageUri": "lib/",
